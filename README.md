@@ -1,4 +1,4 @@
-# Azure AI Resource Auditor
+# Azure AI Auditor
 
 AI-powered Azure infrastructure auditing tool built using Python, Azure CLI, and Ollama.
 
